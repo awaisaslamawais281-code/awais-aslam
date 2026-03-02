@@ -1,2 +1,1 @@
-# awais-aslam
-ludo app
+!pip install streamlit pyngrok
